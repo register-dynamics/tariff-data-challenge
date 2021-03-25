@@ -1,0 +1,326 @@
+sid,code,suffix,description,validity_start_date,validity_end_date
+27623,0100000000,80,LIVE ANIMALS,1971-12-31,
+27624,0101000000,80,"Live horses, asses, mules and hinnies",1972-01-01,
+72760,0101100000,80,Pure-bred breeding animals,2002-01-01,2011-12-31
+72761,0101101000,80,Horses,2002-01-01,2011-12-31
+72762,0101109000,80,Other,2002-01-01,2011-12-31
+74776,0101109010,80,Asses,2002-01-01,2011-06-30
+74778,0101109090,80,Other,2002-01-01,2011-06-30
+27625,0101110000,10,Horses,1972-01-01,2001-12-31
+27626,0101110000,80,Pure-bred breeding animals,1972-01-01,2001-12-31
+27627,0101190000,80,Other,1972-01-01,2001-12-31
+27628,0101191000,80,For slaughter,1972-01-01,2001-12-31
+27629,0101199000,80,Other,1972-01-01,2001-12-31
+27630,0101200000,80,"Asses, mules and hinnies",1972-01-01,2001-12-31
+27631,0101201000,80,Asses,1972-01-01,2001-12-31
+27632,0101209000,80,Mules and hinnies,1972-01-01,2001-12-31
+93797,0101210000,10,Horses,2012-01-01,
+93796,0101210000,80,Pure-bred breeding animals,2012-01-01,
+93798,0101290000,80,Other,2012-01-01,
+93799,0101291000,80,For slaughter,2012-01-01,
+93800,0101299000,80,Other,2012-01-01,
+93801,0101300000,80,Asses,2012-01-01,
+72763,0101900000,80,Other,2002-01-01,
+72764,0101901100,10,Horses,2002-01-01,2011-12-31
+72765,0101901100,80,For slaughter,2002-01-01,2011-12-31
+72766,0101901900,80,Other,2002-01-01,2011-12-31
+72767,0101903000,80,Asses,2002-01-01,2011-12-31
+72768,0101909000,80,Mules and hinnies,2002-01-01,2011-12-31
+27633,0102000000,80,Live bovine animals,1972-01-01,
+27634,0102100000,80,Pure-bred breeding animals,1972-01-01,2011-12-31
+27635,0102101000,80,Heifers (female bovines that have never calved),1993-01-01,2011-12-31
+27636,0102103000,80,Cows,1993-01-01,2011-12-31
+27637,0102109000,80,Other,1993-01-01,2011-12-31
+94053,0102210000,10,Cattle,2012-01-01,
+94047,0102210000,80,Pure-bred breeding animals,2012-01-01,
+94048,0102211000,80,Heifers (female bovines that have never calved),2012-01-01,
+94049,0102213000,80,Cows,2012-01-01,
+94050,0102219000,80,Other,2012-01-01,
+94056,0102290000,80,Other,2012-01-01,
+96756,0102290500,80,Of the sub-genus Bibos or of the sub-genus Poephagus,2013-01-01,
+96757,0102291000,10,Other,2013-01-01,
+94057,0102291000,80,Of a weight not exceeding 80 kg,2012-01-01,
+94058,0102291010,80,"Young male bovine animals, intended for fattening",2012-01-01,
+94059,0102291020,80,"Heifers of the grey, brown or yellow mountain breeds and spotted Pinzgau breed, other than for slaughter",2012-01-01,
+94060,0102291030,80,"Heifers of the Schwyz and Fribourg breeds, other than for slaughter",2012-01-01,
+94061,0102291040,80,"Heifers of the spotted Simmental breed, other than for slaughter",2012-01-01,
+94062,0102291050,80,"Bulls of the Schwyz, Fribourg and spotted Simmental breeds, other than for slaughter",2012-01-01,
+94063,0102291090,80,Other,2012-01-01,
+94064,0102292100,10,Of a weight exceeding 80 kg but not exceeding 160 kg,2012-01-01,
+94065,0102292100,80,For slaughter,2012-01-01,
+94066,0102292900,80,Other,2012-01-01,
+94067,0102292910,80,"Young male bovine animals, intended for fattening",2012-01-01,
+94068,0102292920,80,"Heifers of the grey, brown or yellow mountain breeds and spotted Pinzgau breed",2012-01-01,
+94069,0102292930,80,Heifers of the Schwyz and Fribourg breeds,2012-01-01,
+94070,0102292940,80,Heifers of the spotted Simmental breed,2012-01-01,
+94071,0102292950,80,"Bulls of the Schwyz, Fribourg and spotted Simmental breeds",2012-01-01,
+94072,0102292990,80,Other,2012-01-01,
+94073,0102294100,10,Of a weight exceeding 160 kg but not exceeding 300 kg,2012-01-01,
+94074,0102294100,80,For slaughter,2012-01-01,
+94075,0102294900,80,Other,2012-01-01,
+94076,0102294910,80,"Young male bovine animals, intended for fattening",2012-01-01,
+94077,0102294920,80,"Heifers and cows of the grey, brown or yellow mountain breeds and spotted Pinzgau breed",2012-01-01,
+94078,0102294930,80,Heifers and cows of the Schwyz and Fribourg breeds,2012-01-01,
+94079,0102294940,80,Heifers and cows of the spotted Simmental breed,2012-01-01,
+94080,0102294950,80,"Bulls of the Schwyz, Fribourg and spotted Simmental breeds",2012-01-01,
+94081,0102294990,80,Other,2012-01-01,
+94082,0102295100,10,Of a weight exceeding 300 kg,2012-01-01,
+94083,0102295100,20,Heifers (female bovines that have never calved),2012-01-01,
+94084,0102295100,80,For slaughter,2012-01-01,
+94085,0102295110,80,"Not yet having any permanent teeth, of a weight of not less than 320 kg but not more than 470 kg",2012-01-01,
+94086,0102295190,80,Other,2012-01-01,
+94087,0102295900,80,Other,2012-01-01,
+94088,0102295911,10,"Heifers of the grey, brown or yellow mountain breeds and spotted Pinzgau breed",2012-01-01,
+94089,0102295911,80,"Not yet having any permanent teeth, of a weight of not less than 320 kg but not more than 470 kg",2012-01-01,
+94090,0102295919,80,Other,2012-01-01,
+94091,0102295921,10,Of the Schwyz and Fribourg breeds,2012-01-01,
+94092,0102295921,80,"Not yet having any permanent teeth, of a weight of not less than 320 kg but not more than 470 kg",2012-01-01,
+94093,0102295929,80,Other,2012-01-01,
+94094,0102295931,10,Of the spotted Simmental breed,2012-01-01,
+94095,0102295931,80,"Not yet having any permanent teeth, of a weight of not less than 320 kg but not more than 470 kg",2012-01-01,
+94096,0102295939,80,Other,2012-01-01,
+94097,0102295991,10,Other,2012-01-01,
+94098,0102295991,80,"Not yet having any permanent teeth, of a weight of not less than 320 kg but not more than 470 kg",2012-01-01,
+94099,0102295999,80,Other,2012-01-01,
+94100,0102296100,10,Cows,2012-01-01,
+94101,0102296100,80,For slaughter,2012-01-01,
+94102,0102296900,80,Other,2012-01-01,
+94103,0102296910,80,"Heifers of the grey, brown or yellow mountain breeds and spotted Pinzgau breed",2012-01-01,
+94104,0102296920,80,Of the Schwyz and Fribourg breeds,2012-01-01,
+94105,0102296930,80,Of the spotted Simmental breed,2012-01-01,
+94106,0102296990,80,Other,2012-01-01,
+94118,0102299100,10,Other,2012-01-01,
+94119,0102299100,80,For slaughter,2012-01-01,
+94120,0102299110,80,"Not yet having any permanent teeth, of a weight of not less than 350 kg but not more than 500 kg",2012-01-01,
+94121,0102299190,80,Other,2012-01-01,
+94122,0102299900,80,Other,2012-01-01,
+94123,0102299921,10,"Bulls of the Schwyz, Fribourg and spotted Simmental breeds",2012-01-01,
+94124,0102299921,80,"Not yet having any permanent teeth, of a weight of not less than 350 kg but not more than 500 kg",2012-01-01,
+94125,0102299929,80,Other,2012-01-01,
+94126,0102299991,10,Other,2012-01-01,
+94127,0102299991,80,"Not yet having any permanent teeth, of a weight of not less than 350 kg but not more than 500 kg",2012-01-01,
+94128,0102299999,80,Other,2012-01-01,
+94054,0102310000,10,Buffalo,2012-01-01,
+94051,0102310000,80,Pure-bred breeding animals,2012-01-01,
+94055,0102390000,80,Other,2012-01-01,
+94129,0102391000,80,Domestic species,2012-01-01,
+96165,0102391010,80,Of a weight exceeding 160 kg,2012-01-01,
+96167,0102391090,80,Other,2012-01-01,
+94130,0102399000,80,Other,2012-01-01,
+27638,0102900000,80,Other,1972-01-01,
+27639,0102900500,10,Domestic species,1993-01-01,2011-12-31
+27640,0102900500,80,Of a weight not exceeding 80 kg,1993-01-01,2011-12-31
+27641,0102900510,80,"Young male bovine animals, intended for fattening",1993-01-01,2011-12-31
+27642,0102900520,80,"Heifers of the grey, brown or yellow mountain breeds and spotted Pinzgau breed, other than for slaughter",1993-01-01,2011-12-31
+27643,0102900530,80,"Heifers of the Schwyz and Fribourg breeds, other than for slaughter",1993-01-01,2011-12-31
+27644,0102900540,80,"Heifers of the spotted Simmental breed, other than for slaughter",1993-01-01,2011-12-31
+27645,0102900550,80,"Bulls of the Schwyz, Fribourg and spotted Simmental breeds, other than for slaughter",1993-01-01,2011-12-31
+27646,0102900590,80,Other,1993-01-01,2011-12-31
+27647,0102901000,10,Domestic species,1972-01-01,1992-12-31
+27648,0102901000,80,Of a weight not exceeding 220 kg,1972-01-01,1992-12-31
+27649,0102901010,80,"Young male bovine animals, intended for fattening",1972-01-01,1992-02-29
+27650,0102901011,10,"Young male bovine animals, intended for fattening",1992-03-01,1992-12-31
+27651,0102901011,80,of a weight of not less than 160 kg,1992-03-01,1992-12-31
+27652,0102901019,80,Other,1992-03-01,1992-12-31
+27653,0102901020,80,"Heifers of the grey, brown or yellow mountain breeds and spotted Pinzgau breed, other than for slaughter",1972-01-01,1992-12-31
+27654,0102901030,80,"Heifers of the Schwyz and Fribourg breeds, other than for slaughter",1972-01-01,1992-12-31
+27655,0102901040,80,"Heifers of the spotted Simmental breed, other than for slaughter",1972-01-01,1992-12-31
+27656,0102901050,80,"Bulls of the Schwyz, Fribourg and spotted Simmental breeds, other than for slaughter",1972-01-01,1992-12-31
+27657,0102901090,80,Other,1972-01-01,1992-02-29
+27658,0102901091,10,Other,1992-03-01,1992-12-31
+27659,0102901091,80,"of a weight of not less than 160 kg, for fattening or for slaughter",1992-03-01,1992-12-31
+27660,0102901099,80,Other,1992-03-01,1992-12-31
+94052,0102902000,80,Pure-bred breeding animals,2012-01-01,
+27661,0102902100,10,Of a weight exceeding 80 kg but not exceeding 160 kg,1993-01-01,2011-12-31
+27662,0102902100,80,For slaughter,1993-01-01,2011-12-31
+27663,0102902900,80,Other,1993-01-01,2011-12-31
+27664,0102902910,80,"Young male bovine animals, intended for fattening",1993-01-01,2011-12-31
+27665,0102902920,80,"Heifers of the grey, brown or yellow mountain breeds and spotted Pinzgau breed",1993-01-01,2011-12-31
+27666,0102902930,80,Heifers of the Schwyz and Fribourg breeds,1993-01-01,2011-12-31
+27667,0102902940,80,Heifers of the spotted Simmental breed,1993-01-01,2011-12-31
+27668,0102902950,80,"Bulls of the Schwyz, Fribourg and spotted Simmental breeds",1993-01-01,2011-12-31
+27669,0102902990,80,Other,1993-01-01,2011-12-31
+27670,0102903100,10,Of a weight exceeding 220 kg,1972-01-01,1992-12-31
+27671,0102903100,80,Heifers (female bovines that have never calved),1972-01-01,1992-12-31
+27672,0102903111,10,"Heifers of the grey, brown or yellow mountain breeds and spotted Pinzgau breed, other than for slaughter",1972-01-01,1992-12-31
+27673,0102903111,80,"Not yet having any permanent teeth, of a weight of not less than 320 kg but not more than 470 kg",1972-01-01,1992-12-31
+27674,0102903119,80,Other,1972-01-01,1992-12-31
+27675,0102903121,10,"Heifers of the Schwyz and Fribourg breeds, other than for slaughter",1972-01-01,1992-12-31
+27676,0102903121,80,"Not yet having any permanent teeth, of a weight of not less than 320 kg but not more than 470 kg",1972-01-01,1992-12-31
+27677,0102903129,80,Other,1972-01-01,1992-12-31
+27678,0102903131,10,"Heifers of the spotted Simmental breed, other than for slaughter",1972-01-01,1992-12-31
+27679,0102903131,80,"Not yet having any permanent teeth, of a weight of not less than 320 kg but not more than 470 kg",1972-01-01,1992-12-31
+27680,0102903139,80,Other,1972-01-01,1992-12-31
+27681,0102903191,10,Other,1972-01-01,1992-12-31
+27682,0102903191,80,"Not yet having any permanent teeth, of a weight of not less than 320 kg but not more than 470 kg",1972-01-01,1992-12-31
+27683,0102903196,10,Other,1992-03-01,1992-12-31
+27684,0102903196,80,"of a weight not exceeding 300 kg, for fattening or for slaughter",1992-03-01,1992-12-31
+27685,0102903198,80,Other,1992-03-01,1992-12-31
+27686,0102903199,80,Other,1972-01-01,1992-02-29
+27687,0102903300,80,Cows,1972-01-01,1992-12-31
+27688,0102903310,80,"Cows of the grey, brown or yellow mountain breeds and spotted Pinzgau breed, other than for slaughter",1972-01-01,1992-12-31
+27689,0102903320,80,"Cows of the Schwyz and Fribourg breeds, other than for slaughter",1972-01-01,1992-12-31
+27690,0102903330,80,"Cows of the spotted Simmental breed, other than for slaughter",1972-01-01,1992-12-31
+27691,0102903390,80,Other,1972-01-01,1992-02-29
+27692,0102903391,10,Other,1992-03-01,1992-12-31
+27693,0102903391,80,"of a weight not exceeding 300 kg, for fattening or for slaughter",1992-03-01,1992-12-31
+27694,0102903399,80,Other,1992-03-01,1992-12-31
+27695,0102903500,80,Bulls,1972-01-01,1992-12-31
+27696,0102903510,80,"Young male bovine animals, intended for fattening, of a weight not exceeding 300 kg",1972-01-01,1992-12-31
+27697,0102903521,10,"Bulls of the Schwyz, Fribourg and spotted Simmental breeds, other than for slaughter",1972-01-01,1992-12-31
+27698,0102903521,80,"Not yet having any permanent teeth, of a weight of not less than 350 kg but not more than 500 kg",1972-01-01,1992-12-31
+27699,0102903529,80,Other,1972-01-01,1992-12-31
+27700,0102903591,10,Other,1972-01-01,1992-12-31
+27701,0102903591,80,"Not yet having any permanent teeth, of a weight of not less than 350 kg but not more than 500 kg",1972-01-01,1992-12-31
+27702,0102903596,10,Other,1992-03-01,1992-12-31
+27703,0102903596,80,"of a weight not exceeding 300 kg, for fattening or for slaughter",1992-03-01,1992-12-31
+27704,0102903598,80,Other,1992-03-01,1992-12-31
+27705,0102903599,80,Other,1972-01-01,1992-02-29
+27706,0102903700,80,Steers (bullocks),1972-01-01,1992-12-31
+27707,0102903710,80,"Young male bovine animals, intended for fattening, of a weight not exceeding 300 kg",1972-01-01,1992-12-31
+27708,0102903791,10,Other,1972-01-01,1992-12-31
+27709,0102903791,80,"Not yet having any permanent teeth, of a weight of not less than 350 kg but not more than 500 kg",1972-01-01,1992-12-31
+27710,0102903796,10,Other,1992-03-01,1992-12-31
+27711,0102903796,80,"of a weight not exceeding 300 kg, for fattening or for slaughter",1992-03-01,1992-12-31
+27712,0102903798,80,Other,1992-03-01,1992-12-31
+27713,0102903799,80,Other,1972-01-01,1992-02-29
+27714,0102904100,10,Of a weight exceeding 160 kg but not exceeding 300 kg,1993-01-01,2011-12-31
+27715,0102904100,80,For slaughter,1993-01-01,2011-12-31
+27716,0102904900,80,Other,1993-01-01,2011-12-31
+27717,0102904910,80,"Young male bovine animals, intended for fattening",1993-01-01,2011-12-31
+27718,0102904920,80,"Heifers and cows of the grey, brown or yellow mountain breeds and spotted Pinzgau breed",1993-01-01,2011-12-31
+27719,0102904930,80,Heifers and cows of the Schwyz and Fribourg breeds,1993-01-01,2011-12-31
+27720,0102904940,80,Heifers and cows of the spotted Simmental breed,1993-01-01,2011-12-31
+27721,0102904950,80,"Bulls of the Schwyz, Fribourg and spotted Simmental breeds",1993-01-01,2011-12-31
+74400,0102904990,80,Other,2001-07-01,2011-12-31
+27722,0102904991,10,Other,1993-01-01,2001-06-30
+27723,0102904991,80,intended for fattening,1993-01-01,2001-06-30
+27724,0102904999,80,Other,1993-01-01,2001-06-30
+27725,0102905100,10,Of a weight exceeding 300 kg,1993-01-01,2011-12-31
+27726,0102905100,20,Heifers (female bovines that have never calved),1993-01-01,2011-12-31
+27727,0102905100,80,For slaughter,1993-01-01,2011-12-31
+27728,0102905110,80,"Not yet having any permanent teeth, of a weight of not less than 320 kg but not more than 470 kg",1993-01-01,2011-12-31
+27729,0102905190,80,Other,1993-01-01,2011-12-31
+27730,0102905900,80,Other,1993-01-01,2011-12-31
+27731,0102905911,10,"Heifers of the grey, brown or yellow mountain breeds and spotted Pinzgau breed",1993-01-01,2011-12-31
+27732,0102905911,80,"Not yet having any permanent teeth, of a weight of not less than 320 kg but not more than 470 kg",1993-01-01,2011-12-31
+27733,0102905919,80,Other,1993-01-01,2011-12-31
+27734,0102905921,10,of the Schwyz and Fribourg breeds,1993-01-01,2011-12-31
+27735,0102905921,80,"Not yet having any permanent teeth, of a weight of not less than 320 kg but not more than 470 kg",1993-01-01,2011-12-31
+27736,0102905929,80,Other,1993-01-01,2011-12-31
+27737,0102905931,10,of the spotted Simmental breed,1993-01-01,2011-12-31
+27738,0102905931,80,"Not yet having any permanent teeth, of a weight of not less than 320 kg but not more than 470 kg",1993-01-01,2011-12-31
+27739,0102905939,80,Other,1993-01-01,2011-12-31
+27740,0102905991,10,Other,1993-01-01,2011-12-31
+27741,0102905991,80,"Not yet having any permanent teeth, of a weight of not less than 320 kg but not more than 470 kg",1993-01-01,2011-12-31
+27742,0102905999,80,Other,1993-01-01,2011-12-31
+27743,0102906100,10,Cows,1993-01-01,2011-12-31
+27744,0102906100,80,For slaughter,1993-01-01,2011-12-31
+27745,0102906900,80,Other,1993-01-01,2011-12-31
+27746,0102906910,80,"Heifers of the grey, brown or yellow mountain breeds and spotted Pinzgau breed",1993-01-01,2011-12-31
+27747,0102906920,80,of the Schwyz and Fribourg breeds,1993-01-01,2011-12-31
+27748,0102906930,80,of the spotted Simmental breed,1993-01-01,2011-12-31
+27749,0102906990,80,Other,1993-01-01,2011-12-31
+27750,0102907100,10,Other,1993-01-01,2011-12-31
+27751,0102907100,80,For slaughter,1993-01-01,2011-12-31
+27752,0102907110,80,"Not yet having any permanent teeth, of a weight of not less than 350 kg but not more than 500 kg",1993-01-01,2011-12-31
+27753,0102907190,80,Other,1993-01-01,2011-12-31
+27754,0102907900,80,Other,1993-01-01,2011-12-31
+27755,0102907921,10,"Bulls of the Schwyz, Fribourg and spotted Simmental breeds",1993-01-01,2011-12-31
+27756,0102907921,80,"Not yet having any permanent teeth, of a weight of not less than 350 kg but not more than 500 kg",1993-01-01,2011-12-31
+27757,0102907929,80,Other,1993-01-01,2011-12-31
+27758,0102907991,10,Other,1993-01-01,2011-12-31
+27759,0102907991,80,"Not yet having any permanent teeth, of a weight of not less than 350 kg but not more than 500 kg",1993-01-01,2011-12-31
+27760,0102907999,80,Other,1993-01-01,2011-12-31
+27761,0102909000,80,Other,1972-01-01,2011-12-31
+94131,0102909100,10,Other,2012-01-01,
+94132,0102909100,80,Domestic species,2012-01-01,
+96168,0102909110,80,Of a weight exceeding 160 kg,2012-01-01,
+96166,0102909190,80,Other,2012-01-01,
+94133,0102909900,80,Other,2012-01-01,
+27762,0103000000,80,Live swine,1972-01-01,
+27763,0103100000,80,Pure-bred breeding animals,1972-01-01,
+27764,0103910000,10,Other,1972-01-01,
+27765,0103910000,80,Weighing less than 50 kg,1972-01-01,
+27766,0103911000,80,Domestic species,1972-01-01,
+27767,0103919000,80,Other,1972-01-01,
+27768,0103920000,80,Weighing 50 kg or more,1972-01-01,
+27769,0103921100,10,Domestic species,1989-01-01,
+27770,0103921100,80,"Sows having farrowed at least once, of a weight of not less than 160 kg",1972-01-01,
+27771,0103921900,80,Other,1972-01-01,
+27772,0103929000,80,Other,1972-01-01,
+27773,0104000000,80,Live sheep and goats,1972-01-01,
+27774,0104100000,80,Sheep,1972-01-01,
+27775,0104101000,80,Pure-bred breeding animals,1972-01-01,
+27776,0104103000,10,Other,1993-01-01,
+27777,0104103000,80,Lambs (up to a year old),1993-01-01,
+27778,0104108000,80,Other,1993-01-01,
+27779,0104109000,80,Other,1972-01-01,1992-12-31
+27780,0104200000,80,Goats,1972-01-01,
+27781,0104201000,80,Pure-bred breeding animals,1972-01-01,
+27782,0104209000,80,Other,1972-01-01,
+27783,0105000000,80,"Live poultry, that is to say, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls",1972-01-01,
+27784,0105110000,10,Weighing not more than 185 g,1972-01-01,
+27785,0105110000,80,Fowls of the species Gallus domesticus,1972-01-01,
+27786,0105111100,10,Grandparent and parent female chicks,1993-01-01,
+27787,0105111100,80,Laying stocks,1993-01-01,
+27788,0105111900,80,Other,1993-01-01,
+27789,0105119100,10,Other,1993-01-01,
+27790,0105119100,80,Laying stocks,1993-01-01,
+27791,0105119900,80,Other,1993-01-01,
+59201,0105120000,80,Turkeys,1996-01-01,
+94185,0105130000,80,Ducks,2012-01-01,
+94186,0105140000,80,Geese,2012-01-01,
+94187,0105150000,80,Guinea fowls,2012-01-01,
+27792,0105190000,80,Other,1972-01-01,2011-12-31
+27793,0105191000,80,Geese and turkeys,1972-01-01,1995-12-31
+59202,0105192000,80,Geese,1996-01-01,2011-12-31
+27794,0105199000,80,Ducks and guinea fowls,1972-01-01,2011-12-31
+27795,0105910000,10,Other,1972-01-01,1995-12-31
+27796,0105910000,80,Fowls of the species Gallus domesticus,1972-01-01,1995-12-31
+59203,0105920000,10,Other,1996-01-01,2006-12-31
+59204,0105920000,80,Fowls of the species Gallus domesticus weighing not more than 2000 g,1996-01-01,2006-12-31
+59205,0105930000,80,Fowls of the species Gallus domesticus weighing more than 2 000 g,1996-01-01,2006-12-31
+85304,0105940000,10,Other,2007-01-01,
+85305,0105940000,80,Fowls of the species Gallus domesticus,2007-01-01,
+27797,0105990000,80,Other,1972-01-01,
+27798,0105991000,80,Ducks,1972-01-01,
+27799,0105992000,80,Geese,1972-01-01,
+27800,0105993000,80,Turkeys,1972-01-01,
+27801,0105995000,80,Guinea fowls,1972-01-01,
+27802,0106000000,80,Other live animals,1972-01-01,
+27803,0106001000,80,Domestic rabbits,1972-01-01,2001-12-31
+27804,0106002000,80,Pigeons,1972-01-01,2001-12-31
+27805,0106009000,80,Other,1993-01-01,2001-12-31
+58823,0106009010,80,Apes (Simiae and Prosimiae),1995-06-08,1995-12-31
+58824,0106009090,80,Other,1995-06-08,1995-12-31
+27806,0106009100,10,Other,1972-01-01,1992-12-31
+27807,0106009100,80,Primarily for human consumption,1972-01-01,1992-12-31
+27808,0106009900,80,Other,1972-01-01,1992-12-31
+72769,0106110000,10,Mammals,2002-01-01,
+72770,0106110000,80,Primates,2002-01-01,
+72771,0106120000,80,"Whales, dolphins and porpoises (mammals of the order Cetacea); manatees and dugongs (mammals of the order Sirenia); seals, sea lions and walruses (mammals of the suborder Pinnipedia)",2002-01-01,
+94188,0106130000,80,Camels and other camelids (Camelidae),2012-01-01,
+94189,0106140000,80,Rabbits and hares,2012-01-01,
+94190,0106141000,80,Domestic rabbits,2012-01-01,
+94191,0106149000,80,Other,2012-01-01,
+72772,0106190000,80,Other,2002-01-01,
+72773,0106191000,80,Domestic rabbits,2002-01-01,2011-12-31
+72774,0106199000,80,Other,2002-01-01,2011-12-31
+72775,0106200000,80,Reptiles (including snakes and turtles),2002-01-01,
+72776,0106310000,10,Birds,2002-01-01,
+72777,0106310000,80,Birds of prey,2002-01-01,
+72778,0106320000,80,"Psittaciformes (including parrots, parakeets, macaws and cockatoos)",2002-01-01,
+94192,0106330000,80,Ostriches; emus (Dromaius novaehollandiae),2012-01-01,
+72779,0106390000,80,Other,2002-01-01,
+72780,0106391000,80,Pigeons,2002-01-01,
+94193,0106398000,80,Other,2012-01-01,
+72781,0106399000,80,Other,2002-01-01,2011-12-31
+94194,0106410000,10,Insects,2012-01-01,
+94195,0106410000,80,Bees,2012-01-01,
+94196,0106490000,80,Other,2012-01-01,
+72782,0106900000,80,Other,2002-01-01,
+105936,0106900010,10,Frogs,2021-01-01,
+105934,0106900010,80,Fit for human consumption,2021-01-01,
+105935,0106900019,80,Other,2021-01-01,
+105933,0106900090,80,Other,2021-01-01,
